@@ -1,0 +1,10 @@
+vendor/geckodriver
+geckodriver.log
+
+# Mac files
+.idea/*
+
+# Cache
+src/__pycache__/*
+
+.DS_Store
