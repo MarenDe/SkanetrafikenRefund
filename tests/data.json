@@ -1,0 +1,22 @@
+{
+    "URL": "https://www.skanetrafiken.se/kundservice/ersattning",
+	"manel": {
+		"JOJOCrdNr": "1124124019",
+		"JOJOControlValCode": "9842",
+		"Email": "mbecerracampos@gmail.com"
+	},
+	"maren": {
+		"JOJOCrdNr": "1124124019",
+		"JOJOControlValCode": "9842",
+		"Email": "mbecerracampos@gmail.com"
+	},
+      "trainStations": {
+        "from": "CPH Airport",
+        "to": "Malmö Triangeln"
+    },
+      "timeDelayed": {
+        "20min": "20-39 min",
+        "40min": "40-59 min",
+        "1h": "mer än en timme"
+    }
+}
